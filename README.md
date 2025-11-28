@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Avraigne Martinez
 
 ## 📘 Education
 - Bachelor of Science in Information Technology – New Era University
