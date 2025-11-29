@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # 👋 Hi, I'm Avraigne Martinez
 
 ## 📘 Education
@@ -17,4 +17,3 @@
 - Web Design
 - Communication Skills
 - Problem Solving
--->
