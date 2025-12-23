@@ -13,6 +13,7 @@
 ## 🏅 Oracle Certifications
 - [Oracle Cloud Infrastructure Foundations Associate 2025](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DD7CA8BE6F9CB7A7A53FC0A787BB80890D1C8ED2C1C7DB48D6261597CA3FC682)
 - [Oracle Data Platform 2025 Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=170FA4D1DB091A04097BF9007CD52F286A6E0A3FEDB4F5C62470B4A656E4F768)
+- [OCI AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2BE1824C86DDD03329158D82EB090947AB393F40B1470E6026D804B05FD99622)
 
 
 ## 🛠 Skillsets
