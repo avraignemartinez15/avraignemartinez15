@@ -30,5 +30,5 @@ in tech started when I took the BS Information Technology program at New Era Uni
 - Problem Solving
 
   ### 📬 Reach Me
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/avraigne-martinez-b38104335/)
+- 💼 LinkedIn: [Avraigne Martinez](https://www.linkedin.com/in/avraigne-martinez-b38104335/)
 - 📧 Email: avraignemartinez15@gmail.com
