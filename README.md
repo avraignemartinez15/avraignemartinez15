@@ -3,12 +3,18 @@
 
 # 👋 Hi, I'm Avraigne Martinez
 
+### 🙋 About Me
+I am Avraigne Martinez, with a flair for coding and database management skills. 
+I thrive on tackling complex problems and crafting elegant solutions. My journey 
+in tech started when I took the BS Information Technology program at New Era University.
+
 ## 📘 Education
 - Bachelor of Science in Information Technology – New Era University
 - Year Level: Sophomore 
 
 ## 🎓 Certifications
 - [SQL and Relational Databases 101 – IBM Cognitive Class](https://courses.cognitiveclass.ai/certificates/6d490c302c5241b0a1d5a688b31c7d13)
+- [NoSQL and DBaaS 101 – IBM Cognitive Class](https://courses.cognitiveclass.ai/certificates/d0e0107294994d03ad5bdbc098f1c555)
 
 ## 🏅 Oracle Certifications
 - [Oracle Cloud Infrastructure Foundations Associate 2025](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DD7CA8BE6F9CB7A7A53FC0A787BB80890D1C8ED2C1C7DB48D6261597CA3FC682)
@@ -22,3 +28,7 @@
 - Web Design
 - Communication Skills
 - Problem Solving
+
+  ### 📬 Reach Me
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/avraigne-martinez-b38104335/)
+- 📧 Email: avraignemartinez15@gmail.com
